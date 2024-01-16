@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PI on 人工智能与智慧医疗中心</title>
+    <link>http://127.0.0.1:1313/tags/pi/</link>
+    <description>Recent content in PI on 人工智能与智慧医疗中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Dec 2021 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://127.0.0.1:1313/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PI</title>
+      <link>http://127.0.0.1:1313/team/1-pi/</link>
+      <pubDate>Sat, 25 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/1-pi/</guid>
+      <description>李晓林（研究员） 中国科学院杭州医学所人工智能首席科学家，人工智能与智慧医疗中心主任，知识联邦产学研联盟理事长。曾任美国佛罗里达大学终身正教授，计算机工程部主任，牵头创立全美首个国家级深度学习中心并任创始主任（四校联盟: UF, CMU, UO, UMKC, 80多位国际知名教授; 30多家国际知名企业会员）。2010年获得美国国家科学基金杰出青年教授奖NSF CAREER Award，2021年被评为中国人工智能年度十大风云人物、中国隐私计算年度十大人物，获得多篇最佳会议论文，获得多个挑战赛冠军。主导开发CognitiveEngine，DeepCloud，PrimateAI，DeepFolding，FoldingZero，DeepDrug，DeepBipolar，DeepAtom，DeepEyes，DeepHealth，MySurgeryRisk, iBond, FLEX等多个AI算法和平台，在机器学习、生物医药、云计算、安全隐私等领域的国际顶级期刊和会议发表论文150余篇（Nature Genetics, IEEE/ACM Transactions, AAAI, ACL, EMNLP, ICCV, ICML, INFOCOM, NeurIPS） 。研究成果被有效应用于靶点发现、蛋白质结构预测、分子生成、虚拟筛选、疾病风险预测和临床决策支撑系统。培养的学生有多位成为美国知名高校长聘教授（包括全美排名前五的药学院），其他学生大多在美国知名公司（谷歌、微软、脸谱等）。&#xA;何敏（研究员） 沙雏淋（副研究员） 张俊伟（助理研究员） 研究方向：量子机器学习、自然语言处理、生物信息&#xA;中国科学院杭州医学研究所助理研究员，2023年于天津大学智能与计算学部获得工学博士学位（导师：贺瑞芳教授），随之加入中国科学院杭州医学所人工智能与智慧医疗中心参加工作。主要从事量子机器学习、量子认知、自然语言处理、计算生物学等领域的研究课题。近年来已发表第一作者学术论文十余篇，获得多项发明专利，申请数个软件著作权，并被AAAI、ECAI、EMNLP、Information Sciences等学术会议和期刊邀请为审稿人。&#xA;燕鹏举（首席算法专家） </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 人工智能与智慧医疗中心</title>
+    <link>http://127.0.0.1:1313/tags/</link>
+    <description>Recent content in Tags on 人工智能与智慧医疗中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://127.0.0.1:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIM</title>
+      <link>http://127.0.0.1:1313/tags/aim/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/aim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>青蓝</title>
+      <link>http://127.0.0.1:1313/tags/%E9%9D%92%E8%93%9D/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E9%9D%92%E8%93%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>团队</title>
+      <link>http://127.0.0.1:1313/tags/%E5%9B%A2%E9%98%9F/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E5%9B%A2%E9%98%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PI</title>
+      <link>http://127.0.0.1:1313/tags/pi/</link>
+      <pubDate>Sat, 25 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>博士后</title>
+      <link>http://127.0.0.1:1313/tags/%E5%8D%9A%E5%A3%AB%E5%90%8E/</link>
+      <pubDate>Sat, 25 Dec 2021 09:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E5%8D%9A%E5%A3%AB%E5%90%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>算法工程师</title>
+      <link>http://127.0.0.1:1313/tags/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88/</link>
+      <pubDate>Sat, 25 Dec 2021 08:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科研助理</title>
+      <link>http://127.0.0.1:1313/tags/%E7%A7%91%E7%A0%94%E5%8A%A9%E7%90%86/</link>
+      <pubDate>Sat, 25 Dec 2021 07:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E7%A7%91%E7%A0%94%E5%8A%A9%E7%90%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>博士生</title>
+      <link>http://127.0.0.1:1313/tags/%E5%8D%9A%E5%A3%AB%E7%94%9F/</link>
+      <pubDate>Sat, 25 Dec 2021 06:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E5%8D%9A%E5%A3%AB%E7%94%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>硕士生</title>
+      <link>http://127.0.0.1:1313/tags/%E7%A1%95%E5%A3%AB%E7%94%9F/</link>
+      <pubDate>Sat, 25 Dec 2021 05:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/tags/%E7%A1%95%E5%A3%AB%E7%94%9F/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

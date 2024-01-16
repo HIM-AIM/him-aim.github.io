@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>青蓝 on 人工智能与智慧医疗中心</title>
+    <link>http://127.0.0.1:1313/tags/%E9%9D%92%E8%93%9D/</link>
+    <description>Recent content in 青蓝 on 人工智能与智慧医疗中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://127.0.0.1:1313/tags/%E9%9D%92%E8%93%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【AIM“青蓝”论坛-第2期】讲座通知</title>
+      <link>http://127.0.0.1:1313/activity/2023/12/23/2023-12-23-aim-qinglan-forum/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/activity/2023/12/23/2023-12-23-aim-qinglan-forum/</guid>
+      <description>【AIM“青蓝”论坛-第2期】讲座通知：&#xA;各位老师和同学们好：&#xA;本期论坛非常荣幸邀请到清华大学的宋宇轩（PhD student），为我们带来《Towards Generative Modeling on Molecular Data: Beyond Diffusion Models》的报告！&#xA;欢迎大家积极参与并转发！&#xA;时间：12月26日(今天)，下午2点；&#xA;地点：1号楼101会议室；&#xA;腾讯会议：235-628-048；&#xA;Bilibili直播间：@AIMLab-HIM。</description>
+    </item>
+    <item>
+      <title>【AIM“青蓝”论坛-第1期】讲座通知</title>
+      <link>http://127.0.0.1:1313/activity/2023/11/20/2023-11-20-aim-qinglan-forum/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/activity/2023/11/20/2023-11-20-aim-qinglan-forum/</guid>
+      <description>【AIM“青蓝”论坛-第1期】讲座通知：&#xA;各位老师和同学们好：&#xA;本期论坛非常荣幸邀请到斯坦福大学的徐民凯（PhD student），为我们带来《Graph and Geometry Generative AI with Applications in Drug Discovery》的报告！&#xA;欢迎大家积极参与并转发！&#xA;时间：11月27日(今天)，上午9：30；&#xA;地点：1号楼101会议室；&#xA;腾讯会议：380-614-647；&#xA;Bilibili直播间：@AIMLab-HIM。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工智能与智慧医疗中心</title>
+    <link>http://127.0.0.1:1313/</link>
+    <description>Recent content on 人工智能与智慧医疗中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://127.0.0.1:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【AIM“青蓝”论坛-第2期】讲座通知</title>
+      <link>http://127.0.0.1:1313/activity/2023/12/23/2023-12-23-aim-qinglan-forum/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/activity/2023/12/23/2023-12-23-aim-qinglan-forum/</guid>
+      <description>【AIM“青蓝”论坛-第2期】讲座通知：&#xA;各位老师和同学们好：&#xA;本期论坛非常荣幸邀请到清华大学的宋宇轩（PhD student），为我们带来《Towards Generative Modeling on Molecular Data: Beyond Diffusion Models》的报告！&#xA;欢迎大家积极参与并转发！&#xA;时间：12月26日(今天)，下午2点；&#xA;地点：1号楼101会议室；&#xA;腾讯会议：235-628-048；&#xA;Bilibili直播间：@AIMLab-HIM。</description>
+    </item>
+    <item>
+      <title>【AIM“青蓝”论坛-第1期】讲座通知</title>
+      <link>http://127.0.0.1:1313/activity/2023/11/20/2023-11-20-aim-qinglan-forum/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/activity/2023/11/20/2023-11-20-aim-qinglan-forum/</guid>
+      <description>【AIM“青蓝”论坛-第1期】讲座通知：&#xA;各位老师和同学们好：&#xA;本期论坛非常荣幸邀请到斯坦福大学的徐民凯（PhD student），为我们带来《Graph and Geometry Generative AI with Applications in Drug Discovery》的报告！&#xA;欢迎大家积极参与并转发！&#xA;时间：11月27日(今天)，上午9：30；&#xA;地点：1号楼101会议室；&#xA;腾讯会议：380-614-647；&#xA;Bilibili直播间：@AIMLab-HIM。</description>
+    </item>
+    <item>
+      <title>阳光炙热，激情不减 | AIM中心团建进行时</title>
+      <link>http://127.0.0.1:1313/activity/2023/08/01/2023-08-01-team-activity/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/activity/2023/08/01/2023-08-01-team-activity/</guid>
+      <description>2023年8月中心团建</description>
+    </item>
+    <item>
+      <title>PI</title>
+      <link>http://127.0.0.1:1313/team/1-pi/</link>
+      <pubDate>Sat, 25 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/1-pi/</guid>
+      <description>李晓林（研究员） 中国科学院杭州医学所人工智能首席科学家，人工智能与智慧医疗中心主任，知识联邦产学研联盟理事长。曾任美国佛罗里达大学终身正教授，计算机工程部主任，牵头创立全美首个国家级深度学习中心并任创始主任（四校联盟: UF, CMU, UO, UMKC, 80多位国际知名教授; 30多家国际知名企业会员）。2010年获得美国国家科学基金杰出青年教授奖NSF CAREER Award，2021年被评为中国人工智能年度十大风云人物、中国隐私计算年度十大人物，获得多篇最佳会议论文，获得多个挑战赛冠军。主导开发CognitiveEngine，DeepCloud，PrimateAI，DeepFolding，FoldingZero，DeepDrug，DeepBipolar，DeepAtom，DeepEyes，DeepHealth，MySurgeryRisk, iBond, FLEX等多个AI算法和平台，在机器学习、生物医药、云计算、安全隐私等领域的国际顶级期刊和会议发表论文150余篇（Nature Genetics, IEEE/ACM Transactions, AAAI, ACL, EMNLP, ICCV, ICML, INFOCOM, NeurIPS） 。研究成果被有效应用于靶点发现、蛋白质结构预测、分子生成、虚拟筛选、疾病风险预测和临床决策支撑系统。培养的学生有多位成为美国知名高校长聘教授（包括全美排名前五的药学院），其他学生大多在美国知名公司（谷歌、微软、脸谱等）。&#xA;何敏（研究员） 沙雏淋（副研究员） 张俊伟（助理研究员） 研究方向：量子机器学习、自然语言处理、生物信息&#xA;中国科学院杭州医学研究所助理研究员，2023年于天津大学智能与计算学部获得工学博士学位（导师：贺瑞芳教授），随之加入中国科学院杭州医学所人工智能与智慧医疗中心参加工作。主要从事量子机器学习、量子认知、自然语言处理、计算生物学等领域的研究课题。近年来已发表第一作者学术论文十余篇，获得多项发明专利，申请数个软件著作权，并被AAAI、ECAI、EMNLP、Information Sciences等学术会议和期刊邀请为审稿人。&#xA;燕鹏举（首席算法专家） </description>
+    </item>
+    <item>
+      <title>博士后</title>
+      <link>http://127.0.0.1:1313/team/2-postdoc/</link>
+      <pubDate>Sat, 25 Dec 2021 09:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/2-postdoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>算法工程师</title>
+      <link>http://127.0.0.1:1313/team/3-algorithm-engineer/</link>
+      <pubDate>Sat, 25 Dec 2021 08:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/3-algorithm-engineer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科研助理</title>
+      <link>http://127.0.0.1:1313/team/4-research-assistant/</link>
+      <pubDate>Sat, 25 Dec 2021 07:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/4-research-assistant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>博士生</title>
+      <link>http://127.0.0.1:1313/team/5-phd/</link>
+      <pubDate>Sat, 25 Dec 2021 06:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/5-phd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>硕士生</title>
+      <link>http://127.0.0.1:1313/team/6-master/</link>
+      <pubDate>Sat, 25 Dec 2021 05:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/team/6-master/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>联系我们</title>
+      <link>http://127.0.0.1:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/contact/</guid>
+      <description>欢迎联系我们 中国科学院杭州医学研究所人工智能与智慧医疗中心 地址：杭州市钱塘区下沙街道东方街150号 邮箱：jobs@aimlab.cc </description>
+    </item>
+    <item>
+      <title>研究方向</title>
+      <link>http://127.0.0.1:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/search/</guid>
+      <description>1、AI算法及基础大模型 探索和应用最前沿的人工智能算法和可信智能平台技术，搭建基础大模型及平台（包括LLM、Multimodal Generative AI、Generative Agent etc.），安全合规融合多方分布式大规模生物医药数据，为智慧医疗构建可信AI基础设施，打造下一代基础模型及智能科学生态。目前重点在于基础大模型、深度学习、强化学习、NLP、CV、KG、搜索、推荐、联邦学习、大规模深度学习云原生平台和可信AI操作系统。&#xA;2、多模态智能诊疗 智能化医疗实践的全生命周期，研发医疗智能决策支持算法及平台。利用深度学习、强化学习、NLP、CV、知识图谱等最新人工智能技术，研究多模态数据融合的共性与核心技术，提升多维度数据重建精度，构建影像、病理、临床信息和生物组学信息（基因、蛋白和单细胞等）的多模态融合分析模型，搭建医疗基础大模型，全面支持临床智能化，构建智能诊断、蛋白质组学、多模态多组学、癌症智能早筛、液体活检、数字病理、药物临床预后、伴随诊断和智能决策等算法及平台。&#xA;3、全链条智能制药 利用前沿人工智能技术（特别是深度学习、强化学习、生成式AI、基础大模型），开展靶点识别、结构设计、智能生成、高通量结合虚拟筛选、药效和毒性分析、候选病人筛选、预后预测等创新药物发现研究。并结合动物实验和临床试验，实现干湿试验智能分析决策和反馈闭环。研发大规模虚拟药物筛选和全流程自反馈闭环智能平台，推进药物发现智能化，助力致死率高、罕见性癌症等高挑战的重大疾病国产创新药的研制。目前重点在于设计小分子药物、功能核酸（核酸适体、核酸疫苗及药物）和蛋白抗体等。</description>
+    </item>
+    <item>
+      <title>招贤纳士</title>
+      <link>http://127.0.0.1:1313/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/jobs/</guid>
+      <description>招聘专业 人工智能 （机器学习、深度学习、强化学习、联邦学习、NLP、知识图谱、搜索、CV、Robotics）、计算机科学、软件工程、生物信息学、多组学、蛋白组学、药学、医学、数理统计、电子信息、控制优化、网络安全等相关学科。&#xA;招聘岗位(PI) 研究员/特聘研究员/副研究员/特聘副研究员/助理研究员&#xA;1、要求：&#xA;遵纪守法，身心健康；&#xA;具有国内外知名高校或科研机构科研经历，富有带领团队开展挑战性工作的激情；&#xA;能独立开展科研工作，创新意识及团队组织能力强。&#xA;2、待遇：&#xA;事业编制；&#xA;基础年薪25-60万+科研绩效奖励+社保单位缴纳部分；&#xA;安家费20-350万（入职后一次性拨付，买房可免税）；&#xA;优秀者可通过“钱塘举才”绿色通道另享受钱塘区购房补贴；&#xA;精装修人才过渡用房（市场价租金2-5折）；&#xA;充足的计算资源、实验仪器设备及科研经费，硕博研究生指标；&#xA;食堂免费就餐（按月餐补），工会物资福利、三甲医院VIP体检套餐；&#xA;按政策享受就医、子女入学入托、配偶工作等待遇。&#xA;招聘岗位(博士后) 1、要求：&#xA;遵纪守法，身心健康；&#xA;年龄一般不超过35岁，应届博士毕业生或获博士学位不超过3年；&#xA;富有创新意识及团队协作精神。&#xA;2、待遇：&#xA;基础年薪30-40万+科研绩效奖励+社保单位缴纳部分；&#xA;充分的计算资源及实验仪器设备；&#xA;精装修人才公寓；&#xA;食堂免费就餐（按月餐补）、工会物资福利、三甲医院VIP体检套餐等；&#xA;按政策享受就医、子女入学入托等待遇。&#xA;研究所预留1/3正式科研编制引进年度指标用于遴选优秀博士后出站留所；另，通过杭州医学院等高校及杭州医药港小镇的人才战略合作，可享受博士后出站后优先引进，留杭市属单位工作者可享受不低于40万的人才补贴。&#xA;招聘岗位(算法工程师/软件工程师) 1、 要求：&#xA;遵纪守法，身心健康；&#xA;相关专业硕士及以上学历，有人工智能（ML/ DL/RL/ NLP/CV）、生物医药、隐私计算、云原生、分布式系统、大语言模型、前后端软件开发等研发经验者优先；&#xA;工作踏实认真，有责任心，具有良好的沟通协调及团队协作精神。&#xA;2、 待遇：&#xA;提供具有行业竞争力的薪资待遇，具体面议；&#xA;按国家有关规定缴纳五险一金；&#xA;食堂免费就餐（按月餐补）、工会物资福利、三甲医院VIP体检套餐等；&#xA;如科研潜力突出，可申请审核制博士并择优录取。&#xA;招聘岗位(科研助理) 1、 要求：&#xA;本科及以上学历(本科学历要求985高校)；有人工智能（ML/ DL/RL/ NLP/CV）、生物医药、隐私计算、云原生、分布式系统、大语言模型、前后端软件开发等研发经验者优先；&#xA;工作踏实认真，有责任心，有良好的沟通、协调以及团队协作精神；&#xA;2、待遇：&#xA;提供具有行业竞争力的薪资待遇，具体面议；&#xA;按国家有关规定缴纳五险一金；&#xA;食堂免费就餐（按月餐补）、工会物资福利、三甲医院VIP体检套餐等；&#xA;如科研潜力突出，可申请硕士或审核制博士并择优录取。&#xA;申请方式 投递邮箱：jobs@aimlab.cc&#xA;邮件主题请注明：应聘岗位+姓名+研究方向，并附上你的简历</description>
+    </item>
+  </channel>
+</rss>

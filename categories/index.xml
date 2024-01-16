@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 人工智能与智慧医疗中心</title>
+    <link>http://127.0.0.1:1313/categories/</link>
+    <description>Recent content in Categories on 人工智能与智慧医疗中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://127.0.0.1:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>论坛</title>
+      <link>http://127.0.0.1:1313/categories/%E8%AE%BA%E5%9D%9B/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/categories/%E8%AE%BA%E5%9D%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>最新动态</title>
+      <link>http://127.0.0.1:1313/categories/%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/categories/%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>团队成员</title>
+      <link>http://127.0.0.1:1313/categories/%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98/</link>
+      <pubDate>Sat, 25 Dec 2021 10:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1:1313/categories/%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
