@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>最新动态 on 人工智能与智慧医疗中心</title>
-    <link>http://127.0.0.1:1313/categories/%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81/</link>
+    <link>https://him-aim.github.io/categories/%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81/</link>
     <description>Recent content in 最新动态 on 人工智能与智慧医疗中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://127.0.0.1:1313/categories/%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://him-aim.github.io/categories/%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>阳光炙热，激情不减 | AIM中心团建进行时</title>
-      <link>http://127.0.0.1:1313/activity/2023/08/01/2023-08-01-team-activity/</link>
+      <link>https://him-aim.github.io/activity/2023/08/01/2023-08-01-team-activity/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1:1313/activity/2023/08/01/2023-08-01-team-activity/</guid>
+      <guid>https://him-aim.github.io/activity/2023/08/01/2023-08-01-team-activity/</guid>
       <description>2023年8月中心团建</description>
     </item>
   </channel>
